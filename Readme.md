@@ -36,7 +36,7 @@ This is the **backend server** for the HobbyHub platform – a system where user
 
 
 - Step 1: Clone the server repository
---git clone https://github.com/yourusername/hobbyhub-server.git
+--git clone https://github.com/yourusername/Hobbyhub-server.git
 - Step 2: Navigate into the project folder
 --cd hobbyhub-server
 
